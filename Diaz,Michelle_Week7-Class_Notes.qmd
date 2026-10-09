@@ -1,0 +1,28 @@
+---
+title: "Class notes for week 7"
+date: today
+author: Michelle Diaz
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    toc-expand: 2
+    toc-location: right-body
+    embed-resources: true
+execute:
+    freeze: auto 
+---
+
+# Announcements
+
+# Topics Covered
+
+[Summarize the main topics or presentations from class in your own words.]
+
+# Assignments and Deadlines
+
+[List what is due and when, or point to the syllabus and Canvas.]
+
+# CEP Group Meeting
+
+[Add attendance, decisions, and next steps for your group.]
